@@ -69,8 +69,7 @@
               "ViewState": "AgIAAD4AAAAAAAAAAAAgwEcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T08:03:19.585Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -78,9 +77,9 @@
               "Title": "Form3.cs",
               "DocumentMoniker": "E:\\SECOND_COURSE_SECOND_SEMESTER\\\u041C\u0414\u041A 05.02\\SHARP\\MY_FUCKING_PROJECT\\WindowsFormsApp1\\Form3.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form3.cs",
-              "ToolTip": "E:\\SECOND_COURSE_SECOND_SEMESTER\\\u041C\u0414\u041A 05.02\\SHARP\\MY_FUCKING_PROJECT\\WindowsFormsApp1\\Form3.cs*",
-              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs*",
-              "ViewState": "AgIAACsAAAAAAAAAAAAiwDgAAABdAAAAAAAAAA==",
+              "ToolTip": "E:\\SECOND_COURSE_SECOND_SEMESTER\\\u041C\u0414\u041A 05.02\\SHARP\\MY_FUCKING_PROJECT\\WindowsFormsApp1\\Form3.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-28T08:34:45.614Z",
               "IsPinned": true,
