@@ -1,5 +1,5 @@
 ﻿const
-  SIZE = 3;
+  SIZE = 2;
 
 type DEK = record
   data: array[0..SIZE] of integer;
@@ -15,7 +15,7 @@ end;
 
 function IsEmpty(var d: DEK): boolean := d.count = 0;
 
-function IsFull(var d: DEK): boolean := d.count = SIZE;
+function IsFull(var d: DEK): boolean := d.count = SIZE+1;
 
 procedure Push(var d: DEK; place: string; number: integer);
 begin
