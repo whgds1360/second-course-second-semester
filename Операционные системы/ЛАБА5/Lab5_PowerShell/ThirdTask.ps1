@@ -1,0 +1,1 @@
+$env:COMPUTERNAME, $env:USERNAME, (Get-Date) | Out-File user_info.txt

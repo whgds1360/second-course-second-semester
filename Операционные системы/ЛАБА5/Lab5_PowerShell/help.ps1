@@ -1,0 +1,1 @@
+Get-Help Get-Process | Out-File -FilePath help.txt

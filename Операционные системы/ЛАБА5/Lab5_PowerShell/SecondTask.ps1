@@ -1,0 +1,1 @@
+Get-ChildItem -Path "C:\Windows" -Filter "*.*x*" | Out-File -FilePath Maxim_Shilnikov.txt
